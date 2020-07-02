@@ -1,5 +1,7 @@
 # Análise de Dados de AIH no estado de SP
 
+**Autor: [Eduardo Nunes Cordeiro dos Santos](https://github.com/eduns)**
+
 ### Análise da quantidade de registros de Autorizações de Internações Hospitalares (AIH) dos municípios do estado de SP.
 
     A Autorização de Internação Hospitalar (AIH) é o documento hábil para identificar o paciente e os serviços prestados sob o regime de internação hospitalar e fornecer informações para o gerenciamento do Sistema de Informação Hospitalar. É gerada quando ocorre uma internação em um prestador público ou privado/conveniado ao SUS e é enviada ao gestor da Unidade Prestadora de Serviços.
